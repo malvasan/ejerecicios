@@ -48,4 +48,4 @@ int main()
     cin>>x;
     palabara(x);
 }
-
+ 
