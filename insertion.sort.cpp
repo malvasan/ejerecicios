@@ -1,5 +1,5 @@
 #include <iostream>
-/*
+
 using namespace std;
 
 void insertion_sort(int cadena[],int tamano)
@@ -29,4 +29,3 @@ int main()
     insertion_sort(arreglo,n);
 
 }
-*/
