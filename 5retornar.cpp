@@ -1,5 +1,5 @@
 #include <iostream>
-/*
+
 using namespace std;
 
 int palabara(int num)
@@ -48,4 +48,4 @@ int main()
     cin>>x;
     palabara(x);
 }
-*/
+
