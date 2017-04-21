@@ -1,5 +1,5 @@
 #include <iostream>
-/*
+
 using namespace std;
 
 float convertir(int mill)
@@ -14,5 +14,5 @@ int main()
     cout<<"El valor "<<millas<<" en millas es "<<convertir(millas)<<endl;
     return 0;
 }
-*/
+
 
