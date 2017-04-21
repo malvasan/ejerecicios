@@ -19,3 +19,4 @@ int main()
     cambio(&x,&y);
     cout<<"Ahora x es: "<<x<<" Y y es: "<<y<<endl;
 }
+ 
