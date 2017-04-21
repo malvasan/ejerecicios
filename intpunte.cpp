@@ -1,5 +1,5 @@
 #include <iostream>
-/*
+
 using namespace std;
 
 void cambio(int *x, int *y)
@@ -19,4 +19,3 @@ int main()
     cambio(&x,&y);
     cout<<"Ahora x es: "<<x<<" Y y es: "<<y<<endl;
 }
-*/
